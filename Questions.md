@@ -26,9 +26,18 @@ This file contains a number of front-end interview questions that can be used wh
 
 * What did you learn yesterday/this week?
 * What excites or interests you about coding?
+
+There are already more possible solutions. Is excited to look for the best one and after make code easier and more readable.
 * What is a recent technical challenge you experienced and how did you solve it?
 * When building a new web site or maintaining one, can you explain some techniques you have used to increase performance?
+
+Think as a cell phone device. Make code easy to read and use `mobile first design`. If using `wordpress` add plugins as less as possible. 
 * Can you describe some SEO best practices or techniques you have used lately?
+
+My three main SEO techniques are:
+1. Fill titles and metadescription (use keywords, symbols for higher CTR, selling words, etc.). 
+2. Long content with lots of long tail 
+3. PBN is still working! 
 * Can you explain any common techniques or recent issues solved in regards to front-end security?
 * What actions have you personally taken on recent projects to increase maintainability of your code?
 * Talk about your preferred development environment.
